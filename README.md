@@ -1,6 +1,7 @@
-# Ultiumate Stampina RPG Stat Tracker
+# Ultimate Stamina RPG Stat Tracker
 Stat tracker for a personal project tracking stats from passes of any song ever released as part of the "Stamina RPG" series of ITG tournaments
 
+## Links to packs
 SRPG 1 - http://groovestats.com/ECS6/index.php?page=rules
 
 SRPG 2 - http://groovestats.com/ECS7/
